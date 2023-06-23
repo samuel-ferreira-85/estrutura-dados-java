@@ -9,9 +9,9 @@ public class Aula10 {
         VetorObject vetor = new VetorObject(5);
 
         vetor.adiciona(4);
-        vetor.adiciona(5);
+        vetor.adiciona("5");
         vetor.adiciona(6);
-        vetor.adiciona(7);
+        vetor.adiciona("7");
         vetor.adiciona(8);
 
         var busca = vetor.busca(3);
